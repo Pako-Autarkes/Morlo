@@ -62,10 +62,10 @@ A native, portable, open-source OSINT platform for document intelligence. It dig
 
 ## 🎅 Dear Santa — The Christmas List
 
-> **What this is:** The *"Carta a los Reyes Magos"* — that thing Spanish kids do every January.  
-> They ask for *everything*, not knowing if they need it, just because it's on TV.  
-> That's exactly how clients write software requirements.  
-> This is our version. We know what we want. We just don't have infinite elves.
+> The "Carta a los Reyes Magos" — Spanish kids asking for everything they saw on TV,
+not knowing if they need it, not caring if it fits.
+That's how clients write requirements. This is our version. We know what we want.
+We just don't have infinite elves.
 
 ### Shipped | 🚧 WIP | 📝 Backlog | 🔮 Probably Never
 
