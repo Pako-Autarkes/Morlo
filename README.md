@@ -67,7 +67,7 @@ A native, portable, open-source OSINT platform for document intelligence. It dig
 > That's exactly how clients write software requirements.  
 > This is our version. We know what we want. We just don't have infinite elves.
 
-### Shipped | WIP | Backlog | Probably Never
+### Shipped | 🚧 WIP | 📝 Backlog | 🔮 Probably Never
 
 | # | Item | Status | Phase |
 |---|------|--------|-------|
