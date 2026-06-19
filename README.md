@@ -15,9 +15,9 @@ FOCA never died. It just needed a rewrite. Morlo hunts metadata, connects the do
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge">
-  <img alt="Language" src="https://img.shields.io/badge/language-Free%20Pascal-blue">
-  <img alt="Platform" src="https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey">
-  <img alt="Status" src="https://img.shields.io/badge/status-WIP-orange">
+  <img alt="Language" src="https://img.shields.io/badge/Language-Free%20Pascal-blue.svg?style=for-the-badge">
+  <img alt="Platform" src="https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey.svg?style=for-the-badge">
+  <img alt="Status" src="https://img.shields.io/badge/Status-WIP-orange.svg?style=for-the-badge">
 </p>
 
 ---
