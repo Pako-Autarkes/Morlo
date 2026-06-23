@@ -2,7 +2,7 @@ FOCA never died. It just needed a rewrite. Morlo hunts metadata, connects the do
 
 
 <p align="center">
-  <img src="Morlo-Logo.jpg" alt="Morlo Logo" width="400">
+  <img src="Morlo-Logo.jpg" alt="Morlo Logo" width="420">
 </p>
 
 <h3 align="center">FOCA never died. It just needed a rewrite.</h3>
